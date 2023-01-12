@@ -1,2 +1,1 @@
-# pre-henry
-precurso de henry
+este proyecto es una prueva de como crear y remplaazar un repositorio desde github
